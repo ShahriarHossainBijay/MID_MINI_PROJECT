@@ -1,8 +1,8 @@
 <?php
 	$servername="localhost";
 	$username="root";
-	$password="";
-	$databasename="midminiproject";
+	$password="EN6mu3sykpZbhqfw";
+	$databasename="miniproject";
 
 	
 	function execute ($query)
